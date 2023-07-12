@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Atualmente estou procurando meu primeiro trabalho como Cientista de Dados, mas num passado não tão distante, trabalhei com Engenharia Clínica e Hospitalar, o que me levou a analisar muitos dados da área e despertar a vontade de realizar a transição de carreira, dado que estava mais empolgado com os dados do que com os outros afazeres. Curioso sobre dados e programação desde os 12 anos, quando instalei o [Linux Kurumin](https://www.hardware.com.br/kurumin/) em meu computador ~~e formatei todo o HD com o Windows 98 sem querer~~ e tive meu primeiro contato com a [linguagem de programação Python](https://www.python.org/about/).
+Atualmente estou procurando trabalhar como Cientista de Dados Jr, mas num passado não tão distante, trabalhei com Engenharia Clínica e Hospitalar, o que me levou a analisar muitos dados da área e despertar a vontade de realizar a transição de carreira, dado que estava mais empolgado com os dados do que com os outros afazeres. Curioso sobre dados e programação desde os 12 anos, quando instalei o [Linux Kurumin](https://www.hardware.com.br/kurumin/) em meu computador ~~e formatei todo o HD com o Windows 98 sem querer~~ e tive meu primeiro contato com a [linguagem de programação Python](https://www.python.org/about/).
 
 - Atualmente estou focado em:
 <div style="display: inline">
