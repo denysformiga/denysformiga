@@ -27,7 +27,7 @@ Atualmente estou procurando trabalhar como Cientista de Dados Jr, mas num passad
 </div> 
 
 - Apaixonado por música 🎸 e moda masculina 🤵.
-- Triatleta amador 🏊🚴🏃.
+- Triatleta amador e maratonista 🏊🚴🏃.
 
 ##
 
