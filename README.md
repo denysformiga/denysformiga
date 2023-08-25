@@ -1,4 +1,5 @@
-- Atualmente estou focado em:
+<!-- 
+Atualmente estou focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='60' height='60' src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='60' height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
@@ -9,13 +10,13 @@
 
 - Apaixonado por música 🎸 e moda masculina 🤵.
 - Triatleta amador e maratonista 🏊🚴🏃.
-
+-->
 
 
 <h1 align="center">Olá, eu sou o Denys F. Formiga</h1>
 
 Num passado não tão distante, trabalhei com Engenharia Clínica e Hospitalar, o que me levou a analisar muitos dados da área e despertar a vontade de realizar a transição de carreira, dado que estava mais empolgado com os dados do que com os outros afazeres. Curioso sobre o mundo dos dados e programação desde os 12 anos, quando instalei o [Linux Kurumin](https://www.hardware.com.br/kurumin/) em meu computador ~~(formatando, sem querer, todo o HD com o Windows 98)~~ e tive meu primeiro contato com uma linguagem de programação, o [Python](https://www.python.org/about/). Naquela época, copiava e modificava alguns projetos da internet. Achava o máximo!
-
+  
 - 🔭 Atualmente eu estou me candidatando para conseguir meu primeiro emprego na área de **dados**
 
 - 🌱 Conhecimento nunca é demais, logo, ultimamente estou me desenvolvendo ainda mais em **Business Analytics** e **Linguagem R**
@@ -25,6 +26,7 @@ Num passado não tão distante, trabalhei com Engenharia Clínica e Hospitalar, 
 - 📄 Minha trajetória até aqui estão descritas no [**Linkedin**](https://www.linkedin.com/in/denysformiga/)
 
 - 🏊🚴🏃 Curiosidades: sou maratonista e triatleta amador, e acredito que o esporte pode te ajudar a ser um [profissional melhor](https://www.linkedin.com/pulse/triathlon-e-vida-profissional-muito-al%2525C3%2525A9m-de-endurance-jo%2525C3%2525A3o-victor%3FtrackingId=3bFkAe9vxIqnKM0hOX1U9Q%253D%253D/?trackingId=3bFkAe9vxIqnKM0hOX1U9Q%3D%3D)
+
 
 <h3 align="left">Linguagens de Programação e Ferramentas que possuo conhecimento:</h3>
 <p align="left"> 
@@ -45,8 +47,9 @@ Num passado não tão distante, trabalhei com Engenharia Clínica e Hospitalar, 
   <a href="https://cloud.google.com/looker?hl=pt-br" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" alt="Look Studio" width="26" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
-<h3 align="left">Me encontre através:</h3>
+<h3 align="left">Contato:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/denysformiga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/denysformiga/" height="30" width="40" /></a>
-<a href="https://instagram.com/denysformiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denysformiga" height="30" width="40" /></a>
+<a href="mailto:denysformiga@gmail.com" target="blank"><img align="center" src="https://www.google.com/gmail/about/static-2.0/images/logo-gmail.png" alt="denysformiga@gmail.com" height="40" width="40" /></a>             
+<a href="https://linkedin.com/in/denysformiga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/denysformiga/" height="30" width="40" /></a>
+<a href="https://instagram.com/denysformiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@denysformiga" height="30" width="40" /></a>
 </p>
