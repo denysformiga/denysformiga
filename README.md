@@ -17,15 +17,15 @@ Atualmente estou focado em:
 
 Num passado não tão distante, trabalhei com Engenharia Clínica e Hospitalar, o que me levou a analisar muitos dados da área e despertar a vontade de realizar a transição de carreira, dado que estava mais empolgado com os dados do que com os outros afazeres. Curioso sobre o mundo dos dados e programação desde os 12 anos, quando instalei o [Linux Kurumin](https://www.hardware.com.br/kurumin/) em meu computador ~~(formatando, sem querer, todo o HD com o Windows 98)~~ e tive meu primeiro contato com uma linguagem de programação, o [Python](https://www.python.org/about/). Naquela época, copiava e modificava alguns projetos da internet. Achava o máximo!
   
-- 🔭 Atualmente eu estou me candidatando para conseguir meu primeiro emprego na área de **dados**
+- Atualmente eu estou me candidatando para conseguir meu primeiro emprego na área de **dados**
 
-- 🌱 Conhecimento nunca é demais, logo, ultimamente estou me desenvolvendo ainda mais em **Business Analytics** e **Linguagem R**
+- Conhecimento nunca é demais, logo, ultimamente estou me desenvolvendo ainda mais em **Business Analytics** e **Linguagem R**
 
-- 📫 Você pode trocar uma ideia comigo através do **denysformiga@gmail.com**
+- Você pode trocar uma ideia comigo através do **denysformiga@gmail.com**
 
-- 📄 Minha trajetória até aqui estão descritas no [**Linkedin**](https://www.linkedin.com/in/denysformiga/)
+- Minha trajetória até aqui estão descritas no [**Linkedin**](https://www.linkedin.com/in/denysformiga/)
 
-- 🏊🚴🏃 Curiosidades: sou maratonista e triatleta amador, e acredito que o esporte pode te ajudar a ser um [profissional melhor](https://www.linkedin.com/pulse/triathlon-e-vida-profissional-muito-al%2525C3%2525A9m-de-endurance-jo%2525C3%2525A3o-victor%3FtrackingId=3bFkAe9vxIqnKM0hOX1U9Q%253D%253D/?trackingId=3bFkAe9vxIqnKM0hOX1U9Q%3D%3D)
+- Curiosidades: sou maratonista e triatleta amador, e acredito que o esporte pode te ajudar a ser um [profissional melhor](https://www.linkedin.com/pulse/triathlon-e-vida-profissional-muito-al%2525C3%2525A9m-de-endurance-jo%2525C3%2525A3o-victor%3FtrackingId=3bFkAe9vxIqnKM0hOX1U9Q%253D%253D/?trackingId=3bFkAe9vxIqnKM0hOX1U9Q%3D%3D)
 
 
 <h3 align="left">Linguagens de Programação e Ferramentas que possuo conhecimento:</h3>
