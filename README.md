@@ -42,11 +42,12 @@ Atualmente estou procurando trabalhar como Cientista de Dados Jr, mas num passad
 
 
 <h1 align="center">Olá, eu sou o Denys F. Formiga</h1>
-Atualmente estou procurando trabalhar como Cientista de Dados Jr, mas num passado não tão distante, trabalhei com Engenharia Clínica e Hospitalar, o que me levou a analisar muitos dados da área e despertar a vontade de realizar a transição de carreira, dado que estava mais empolgado com os dados do que com os outros afazeres. Curioso sobre dados e programação desde os 12 anos, quando instalei o [Linux Kurumin](https://www.hardware.com.br/kurumin/) em meu computador ~~e formatei todo o HD com o Windows 98 sem querer~~ e tive meu primeiro contato com a [linguagem de programação Python](https://www.python.org/about/) 
 
-- 🔭 Atualmente eu estou focado em aprender e me candidatando para conseguir meu primeiro emprego na área de **dados**
+Atualmente estou procurando trabalhar como Cientista de Dados Jr, mas num passado não tão distante, trabalhei com Engenharia Clínica e Hospitalar, o que me levou a analisar muitos dados da área e despertar a vontade de realizar a transição de carreira, dado que estava mais empolgado com os dados do que com os outros afazeres. Curioso sobre dados e programação desde os 12 anos, quando instalei o [Linux Kurumin](https://www.hardware.com.br/kurumin/) em meu computador ~~e formatei todo o HD com o Windows 98 sem querer~~ e tive meu primeiro contato com a [linguagem de programação Python](https://www.python.org/about/). Naquela época, copiava e modificava alguns projetos da internet. Era o máximo!
 
-- 🌱 Atualmente estou me desenvolvendo em **Business Analytics** e **Linguagem R**
+- 🔭 Atualmente eu estou me candidatando para conseguir meu primeiro emprego na área de **dados**
+
+- 🌱 Conhecimento nunca é demais, logo, ultimamente estou me desenvolvendo ainda mais em **Business Analytics** e **Linguagem R**
 
 - 📫 Você pode trocar uma ideia comigo através do **denysformiga@gmail.com**
 
@@ -56,11 +57,11 @@ Atualmente estou procurando trabalhar como Cientista de Dados Jr, mas num passad
 
 <h3 align="left">Me encontre através:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/denysformiga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/denysformiga/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/denysformiga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/denysformiga/" height="30" width="40" /></a>
 <a href="https://instagram.com/denysformiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denysformiga" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens de Programação e Ferramentas:</h3>
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
