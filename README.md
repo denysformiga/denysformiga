@@ -23,7 +23,7 @@ Num passado não tão distante, trabalhei com Engenharia Clínica e Hospitalar, 
 
 - Você pode trocar uma ideia comigo através do **denysformiga@gmail.com**
 
-- Minha trajetória até aqui estão descritas no [**Linkedin**](https://www.linkedin.com/in/denysformiga/)
+- Minha trajetória até aqui estão descritas no [**Linkedin**](https://www.linkedin.com/in/denysformiga/) e em meu [**site**](https://sites.google.com/view/denysformiga/)
 
 - Curiosidades: sou maratonista e triatleta amador, e acredito que [o esporte pode te ajudar a ser um profissional melhor](https://www.linkedin.com/pulse/triathlon-e-vida-profissional-muito-al%2525C3%2525A9m-de-endurance-jo%2525C3%2525A3o-victor%3FtrackingId=3bFkAe9vxIqnKM0hOX1U9Q%253D%253D/?trackingId=3bFkAe9vxIqnKM0hOX1U9Q%3D%3D)
 
